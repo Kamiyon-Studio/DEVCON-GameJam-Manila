@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da4676d885af3b048ab42f7dfc965e26, type: 3}
+  m_Name: RightSpawnSO
+  m_EditorClassIdentifier: 
+  spawnPoints:
+  - {fileID: 5479995202751832276, guid: b48bb7a83cd477c4683cf71dba7189dd, type: 3}
+  - {fileID: 2365752616317902667, guid: bc758894cd97070418eec13adf089e55, type: 3}
+  - {fileID: 376964816247235290, guid: 78d074814279ce54dbbc18d0c4ecd248, type: 3}
+  - {fileID: 1372758382292090764, guid: 3777d994780b17741b9ed9750e7de00b, type: 3}
+  - {fileID: 3274702918762654713, guid: 1a5c08f18e06d7a478b2e83a610fbaf9, type: 3}
+  - {fileID: 7665353647275473344, guid: fa5f76b9f710e4c42ba40a40f59eab87, type: 3}
+  - {fileID: 8369419343400753464, guid: 338ee8b8bb7fb56488b12dc690b3658a, type: 3}
+  - {fileID: 142690188847113194, guid: 11551a278c39bd740a2dc331ccc23caa, type: 3}
+  - {fileID: 9088692570684375671, guid: e051db92e37e4c34aaaaf5d3aefe23d8, type: 3}

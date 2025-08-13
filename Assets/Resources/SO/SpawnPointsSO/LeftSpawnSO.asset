@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da4676d885af3b048ab42f7dfc965e26, type: 3}
+  m_Name: LeftSpawnSO
+  m_EditorClassIdentifier: 
+  spawnPoints:
+  - {fileID: 7645075649880786430, guid: a5bd34ae4bbd64d43b062200da6c5e9a, type: 3}
+  - {fileID: 3150654219503672089, guid: da270abc1957f0844ad86791bfffed00, type: 3}
+  - {fileID: 4258822389551494763, guid: 57e80d7f1f7991d429beb1fc78ea39bc, type: 3}
+  - {fileID: 8474907463790771138, guid: 0f04192e85dd334479b07868376f9e9a, type: 3}
+  - {fileID: 3507556253047624249, guid: df174c6de9035294d94835f397a5d745, type: 3}
+  - {fileID: 6394957527008266299, guid: 8aaca4481a31e9645bb7ee4bc77bfc59, type: 3}
+  - {fileID: 7147621856794562208, guid: 792fd4cd6c16ca0458c6a3e3b3734caa, type: 3}
+  - {fileID: 4188954991616963584, guid: 13d8cf7c783a1b84293c3505a6fa8307, type: 3}
+  - {fileID: 2904624859560325235, guid: b407788d91d0222469f18aa46ce1222e, type: 3}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2349f03426c55b4439b79e6d0679d3c9, type: 3}
+  m_Name: CoffeePowerUpSO
+  m_EditorClassIdentifier: 
+  powerUpName: COFFEE
+  powerUpSpriteIcon: {fileID: -2622209524825684106, guid: 7881ed7e8ff57654983e7bc324873720, type: 3}
+  powerUpDuration: 0

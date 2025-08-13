@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2349f03426c55b4439b79e6d0679d3c9, type: 3}
+  m_Name: CommitPowerUpSO
+  m_EditorClassIdentifier: 
+  powerUpName: COMMIT
+  powerUpSpriteIcon: {fileID: 4018594652572357205, guid: 28670313d81a57a4eb8d1e69ab182fbb, type: 3}
+  powerUpDuration: 0
